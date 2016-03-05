@@ -1,0 +1,28 @@
+name: Mario Grossenbacher
+favicon: null
+layout_spectrum: 0.8711173799820244
+typography_spectrum: 0.00635180133394897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.23361237277276814
+  lightness: 0.7949617654085159
+  saturation: 0.23020185250788927
+  rhythmicContrast: 0.5582885760813951
+purpose: []
