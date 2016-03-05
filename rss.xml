@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mario Grossenbacher]]></title>
         <description><![CDATA[Mario Grossenbacher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mario-grossenbacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 13:50:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 13:53:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mario-grossenbacher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to my new site]]></title>
-            <description><![CDATA[<article><h1>Welcome to my new site</h1><p>I am thrilled to start using The Grid. Let's see how this will develop. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f03c8505a2952a3eae6598ca85b21bbd9935cc18.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-my-new-site/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to my new site</h1><p>I am thrilled to start using The Grid. Let's see how this will develop. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55c5eb5d-e6c9-42cb-958b-ffe7e450b18c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mario-grossenbacher/welcome-to-my-new-site/index.html</link>
             <guid isPermaLink="false">b22dc47a-0dd5-484e-8b7d-63d1722c1f4e</guid>
-            <pubDate>Sat, 05 Mar 2016 13:50:43 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 13:52:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
