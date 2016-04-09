@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Check it out!'
-datePublished: '2016-03-05T13:52:16.786Z'
-dateModified: '2016-03-05T13:52:06.128Z'
+description: "I am thrilled to start using The Grid. Let's see how this will develop. "
+datePublished: '2016-04-09T16:40:40.080Z'
+dateModified: '2016-04-09T16:40:29.551Z'
 title: Welcome to my new site
 author: []
 sourcePath: _posts/2016-03-05-welcome-to-my-new-site.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: welcome-to-my-new-site/index.html
 _type: Article
 
