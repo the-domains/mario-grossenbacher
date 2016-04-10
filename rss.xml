@@ -4,7 +4,7 @@
         <description><![CDATA[Mario Grossenbacher]]></description>
         <link>https://thegrid.ai/mario-grossenbacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 16:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 09:28:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mario-grossenbacher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to my new site]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mario-grossenbacher/welcome-to-my-new-site/index.html</link>
             <guid isPermaLink="false">b22dc47a-0dd5-484e-8b7d-63d1722c1f4e</guid>
             <pubDate>Sat, 09 Apr 2016 16:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Picture taken by Claudia Rauber]]></title>
+            <description><![CDATA[<article><h1>Picture taken by Claudia Rauber</h1><p>I have no idea how this works but I am very motivated to figure it out!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f57084e2-5f32-4f40-ac57-f1d7fac1c959.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mario-grossenbacher/i-have-no-idea-how-this-works-but-i-am-very-motivated-to-fig/index.html</link>
+            <guid isPermaLink="false">3f04ff06-2be0-4e83-97a3-18f7c7ce9195</guid>
+            <pubDate>Sun, 10 Apr 2016 09:28:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
