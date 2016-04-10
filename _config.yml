@@ -1,8 +1,7 @@
+name: Mario Grossenbacher
+favicon: null
 layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.387218
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2302018525078893
-  brandStrength: 0.2336123727727681
-  rhythmicContrast: 0
   brandColors:
     - '#ed8c2e'
     - '#ffffff'
     - '#060c0e'
     - '#8b8b89'
     - '#353439'
+  brandStrength: 0.2336123727727681
   lightness: 0.7949617654085159
-typography_spectrum: 0.387218
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Mario Grossenbacher
+  saturation: 0.2302018525078893
+  rhythmicContrast: 0
+purpose: []
