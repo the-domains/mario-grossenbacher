@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'I have no idea how this works but I am very motivated to figure it out!'
-datePublished: '2016-04-10T10:36:59.955Z'
-dateModified: '2016-04-10T09:34:14.448Z'
+description: 'I have no idea how this works here on this platform but I am very motivated to figure it out!'
+datePublished: '2016-04-13T08:32:25.891Z'
+dateModified: '2016-04-13T08:31:56.487Z'
 title: "Let's go!"
 author: []
 sourcePath: _posts/2016-04-10-i-have-no-idea-how-this-works-but-i-am-very-motivated-to-fig.md
