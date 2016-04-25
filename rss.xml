@@ -4,21 +4,21 @@
         <description><![CDATA[Mario Grossenbacher]]></description>
         <link>https://thegrid.ai/mario-grossenbacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 07:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 12:18:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mario-grossenbacher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Let's go!]]></title>
-            <description><![CDATA[<article><h1>Let's go!</h1><p>I have no idea how this works here on this platform but I am very motivated to figure it out!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f57084e2-5f32-4f40-ac57-f1d7fac1c959.jpg"></article>]]></description>
+            <title><![CDATA[Welcome to my new site]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55c5eb5d-e6c9-42cb-958b-ffe7e450b18c.jpg">]]></description>
+            <link>https://thegrid.ai/mario-grossenbacher/welcome-to-my-new-site/index.html</link>
+            <guid isPermaLink="false">b22dc47a-0dd5-484e-8b7d-63d1722c1f4e</guid>
+            <pubDate>Mon, 25 Apr 2016 12:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Picture taken by Claudia Rauber]]></title>
+            <description><![CDATA[<article><h1>Picture taken by Claudia Rauber</h1><p>I have no idea how this works here on this platform but I am very motivated to figure it out!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f57084e2-5f32-4f40-ac57-f1d7fac1c959.jpg"></article>]]></description>
             <link>https://thegrid.ai/mario-grossenbacher/i-have-no-idea-how-this-works-but-i-am-very-motivated-to-fig/index.html</link>
             <guid isPermaLink="false">3f04ff06-2be0-4e83-97a3-18f7c7ce9195</guid>
             <pubDate>Thu, 14 Apr 2016 07:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to my new site]]></title>
-            <description><![CDATA[<article><h1>Welcome to my new site</h1><p>I am thrilled to start using The Grid. Let's see how this will develop. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ad68c7f27ee4692d4ba1a84977d6401e0f3c286.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mario-grossenbacher/welcome-to-my-new-site/index.html</link>
-            <guid isPermaLink="false">b22dc47a-0dd5-484e-8b7d-63d1722c1f4e</guid>
-            <pubDate>Sat, 09 Apr 2016 16:40:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
